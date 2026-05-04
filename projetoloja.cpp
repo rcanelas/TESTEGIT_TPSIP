@@ -20,6 +20,8 @@ int IDpro = 1;
 iiuyqweiuryqwieuryqwieuyrqwieuryqweiruyqweiruyqweiury
 // imagina que outra pessoa qesta a desenvolver aqui 
 
+alteracao nas linhas 
+
 bool nomerep(string nomes) {	
 	for (string n : Nome) {
 		if (n == nomes) {
