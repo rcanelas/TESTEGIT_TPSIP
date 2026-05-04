@@ -64,7 +64,6 @@ void venda() {
 	int idEscolhido;
 	int indice = -1;
 
-	// ciclo que obriga sempre o utilizador a escolher um produto que aparece na lista
 	while (indice == -1) {
 
 		cout << "Escreva o ID do produto que pretende comprar: ";
@@ -76,7 +75,7 @@ void venda() {
 			cout << "Nao pode inserir letras, tente novamente.\n\n";
 			continue;
 		}
-
+//qualquer coisa
 		for (int i = 0; i < Ids.size(); i++) {
 
 			if (Ids[i] == idEscolhido) {
