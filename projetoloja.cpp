@@ -8,11 +8,7 @@
 
 using namespace std;
 
-vector<int> Ids;
-vector<string> Nome;
-vector<int> Stock;
-vector<float>PrecoC;
-vector<float>PrecoV;
+
 
 int IDpro = 1;
 
