@@ -21,7 +21,7 @@ int IDpro = 1;
 	cout << " BEM-VINDO A ZONA DAS VENDAS\n";
 	cout << "=========================================\n\n";
 
-
+	//  GUI ALTEROU ISSO
 	continua a desenvolver
 
 bool nomerep(string nomes) {	
