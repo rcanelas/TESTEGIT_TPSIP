@@ -17,7 +17,7 @@ vector<float>PrecoC;
 vector<float>PrecoV;
 
 int IDpro = 1;
-
+iiuyqweiuryqwieuryqwieuyrqwieuryqweiruyqweiruyqweiury
 // imagina que outra pessoa qesta a desenvolver aqui 
 
 bool nomerep(string nomes) {	
