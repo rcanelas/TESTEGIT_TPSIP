@@ -31,6 +31,9 @@ int IDpro = 1;
 	cout << " BEM-VINDO A ZONA DAS VENDAS\n";
 	cout << "=========================================\n\n";
 
+
+	continua a desenvolver
+
 bool nomerep(string nomes) {	
 	for (string n : Nome) {
 		if (n == nomes) {
