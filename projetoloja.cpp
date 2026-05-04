@@ -22,6 +22,7 @@ int IDpro = 1;
 	cout << "=========================================\n\n";
 
 	//  GUI ALTEROU ISSO
+	// branch do Gui
 	continua a desenvolver
 
 bool nomerep(string nomes) {	
