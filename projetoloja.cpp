@@ -36,7 +36,31 @@ void venda() {
 	system("cls");
 
 	int IDcliente;
+do {
+		cout << "Diga qual o seu numero de Cliente (NIF): ";
+		cin >> IDcliente;
+////////
+estava a criar os botos genericos 
 
+
+/////////////////
+		if (IDcliente < 100000000 || IDcliente > 999999999)
+			cout << "NIF invalido! Deve ter exatamente 9 digitos.\n";
+	isponiveis:\n";
+	for (int i = 0; i < Ids.size(); i++) {
+		if (Stock[i] == 0) continue;
+		cout << "ID: " << Ids[i]
+			<< " | Nome: " << Nome[i]do {
+		cout << "Diga qual o seu numero de Cliente (NIF): ";
+		cin >> IDcliente;
+
+		if (IDcliente < 100000000 || IDcliente > 999999999)
+			cout << "NIF invalido! Deve ter exatamente 9 digitos.\n";
+	isponiveis:\n";
+	for (int i = 0; i < Ids.size(); i++) {
+		if (Stock[i] == 0) continue;
+		cout << "ID: " << Ids[i]
+			<< " | Nome: " << Nome[i]
 
 
 	do {
