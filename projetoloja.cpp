@@ -9,12 +9,8 @@
 using namespace std;
 
 
-vector<int> Ids;
-vector<string> Nome;
-vector<int> Stock;
-// mais qualquer coisa
-vector<float>PrecoC;
-vector<float>PrecoV;
+branch de teste. 
+
 
 int IDpro = 1;
 
