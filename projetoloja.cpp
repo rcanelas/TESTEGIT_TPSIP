@@ -30,6 +30,8 @@ bool nomerep(string nomes) {
 	}
 	return false;
 }
+alteracoes nisto 
+
 
 int gerarFatura() {	//gera um numero a sorte
 	return rand() % 1000 + 1;
@@ -48,14 +50,7 @@ void venda() {
 
 		if (IDcliente < 100000000 || IDcliente > 999999999)
 			cout << "NIF invalido! Deve ter exatamente 9 digitos.\n";
-	} while (IDcliente < 100000000 || IDcliente > 999999999);
-
-	if (Ids.empty()) {
-		cout << "A encomenda de produtos ainda nao chegou!! \n\n";
-		return;
-	}
-
-	cout << "Produtos disponiveis:\n";
+	isponiveis:\n";
 	for (int i = 0; i < Ids.size(); i++) {
 		if (Stock[i] == 0) continue;
 		cout << "ID: " << Ids[i]
