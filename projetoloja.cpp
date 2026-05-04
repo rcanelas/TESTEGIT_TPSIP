@@ -34,9 +34,7 @@ void venda() {
 
 	int IDcliente;
 
-	cout << "=========================================\n";
-	cout << " BEM-VINDO A ZONA DAS VENDAS\n";
-	cout << "=========================================\n\n";
+
 
 	do {
 		cout << "Diga qual o seu numero de Cliente (NIF): ";
